@@ -13,3 +13,11 @@
 - name: WallStreetBets
   url: https://www.reddit.com/r/wallstreetbets/.rss
   category: us_stock_sentiment
+
+- name: 华尔街见闻
+  url: https://dedicated.wallstreetcn.com/rss.xml
+  category: 财经新闻
+
+- name: 东方财富
+  url: http://rss.eastmoney.com/rss_partener.aspx?id=cjpd
+  category: 财经新闻
