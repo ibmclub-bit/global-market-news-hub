@@ -1,0 +1,27 @@
+- name: BBC World
+  url: https://feeds.bbci.co.uk/news/world/rss.xml
+  category: 国际新闻
+
+- name: CNN World
+  url: http://rss.cnn.com/rss/edition_world.rss
+  category: 国际新闻
+
+- name: Reddit WorldNews
+  url: https://www.reddit.com/r/worldnews/.rss
+  category: 国际新闻
+
+- name: Hacker News
+  url: https://news.ycombinator.com/rss
+  category: 科技热点
+
+- name: 华尔街见闻
+  url: https://dedicated.wallstreetcn.com/rss.xml
+  category: 财经新闻
+
+- name: 东方财富
+  url: http://rss.eastmoney.com/rss_partener.aspx?id=cjpd
+  category: 财经新闻
+
+- name: Reuters
+  url: https://feeds.reuters.com/reuters/topNews
+  category: 国际新闻
