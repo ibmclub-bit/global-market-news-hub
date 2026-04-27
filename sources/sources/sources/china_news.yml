@@ -1,0 +1,15 @@
+- name: 人民网
+  url: http://www.people.com.cn/rss/politics.xml
+  category: china_news
+
+- name: 新华网
+  url: http://www.xinhuanet.com/politics/news_politics.xml
+  category: china_news
+
+- name: 证券时报
+  url: https://www.stcn.com/rss
+  category: cn_stock
+
+- name: 财联社电报
+  url: https://rsshub.app/cls/telegraph
+  category: cn_finance
